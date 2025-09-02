@@ -1,2 +1,0 @@
-class Propriedade < ApplicationRecord
-end
